@@ -1,6 +1,7 @@
 export enum AppRoute {
-  Login='/login',
   Root='/',
+  Login='/login',
+  Event='/points',
 }
 
 export enum AuthorizationStatus {
