@@ -13,8 +13,8 @@ function MainScreen(): JSX.Element {
         </div>
       </header>
       <main className="page-body__page-main  page-main">
-        <div className="page-body__container main">
-          <section className="trip-events" style = {{textAlign: 'center'}}>
+        <div className="page-body__container">
+          <section className="trip-events main" style = {{textAlign: 'center'}}>
             <h2 className="visually-hidden">Trip events</h2>
             <p className="trip-events__msg">Are you ready for the discoveries<br/>and impressions that travel gives?</p>
             <a className = "button__link" href="/points"

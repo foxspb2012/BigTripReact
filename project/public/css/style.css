@@ -1072,11 +1072,11 @@ a {
 }
 
 .main {
-  height: 700px;
+  height: 780px;
   background-image:url("../img/main-bg.png");
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: bottom;
+  background-position: left 60px bottom;
 }
 
 .button__link {
